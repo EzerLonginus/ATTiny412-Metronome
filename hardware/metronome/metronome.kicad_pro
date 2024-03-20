@@ -470,6 +470,26 @@
       {
         "netclass": "Power",
         "pattern": "+5V"
+      },
+      {
+        "netclass": "Default",
+        "pattern": ""
+      },
+      {
+        "netclass": "Power",
+        "pattern": "BC1"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "BC2"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VOUT1"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VOUT2"
       }
     ]
   },

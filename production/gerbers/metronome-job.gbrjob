@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.7"
     },
-    "CreationDate": "2024-02-08T13:52:16-05:00"
+    "CreationDate": "2024-03-19T14:26:38-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -44,34 +44,9 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "metronome-F_Paste.gbr",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "metronome-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "metronome-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
-    },
-    {
-      "Path": "metronome-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "metronome-F_Mask.gbr",
-      "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "metronome-B_Mask.gbr",
-      "FileFunction": "SolderMask,Bot",
-      "FilePolarity": "Negative"
     },
     {
       "Path": "metronome-Edge_Cuts.gbr",
