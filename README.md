@@ -9,7 +9,7 @@ I pretty much wanted an execuse to play around with the ATTiny Series 1 chips, a
 Having a rotary encoder with a push button, two additional buttons, a headphone amp, and an I2C breakout does lend itself to other projects besides metronomes (obviously).  So this project may also end up being a testing bed for some other audio related projects I have in mind.
 
 ## Scematic
-![Metronome Schematic](hardware/metronome/ATTiny412_Metronome_Schematic_V02.png)
+![Metronome Schematic](hardware/metronome/metronome_schematic_v02.jpg)
 
 ## Layout
 ![Metronome Layout](hardware/metronome/ATTiny412_Metronome_Layout_V02.png)
